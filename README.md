@@ -5,6 +5,8 @@ To write a python program to implement multivariate linear regression and predic
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
+## Register Number: 212225100018
+## Name: Jagan Kumar V
 ### Step1
 
 import pandas as pd
